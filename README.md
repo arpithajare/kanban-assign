@@ -10,10 +10,6 @@ This is a Kanban board application built using React JS that interacts with the 
 - Ability to save the user's view state in local storage.
 - Priority levels are defined as Urgent (4), High (3), Medium (2), Low (1), and No priority (0).
 
-## Demo
-
-You can see a live demo of the Kanban board application [here](https://main.d2nq9mz8ggbsl4.amplifyapp.com).
-
 ## Installation
 
 To run the Kanban board application locally, follow these steps:
@@ -74,8 +70,8 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 If you have any questions, suggestions, or feedback, feel free to contact the project maintainer:
 
-- **Name:** Sagar Chauhan
-- **Email:** [sagarchauhan015@gmail.com](mailto:sagarchauhan015@gmail.com)
+- **Name:** Arpit Hajare
+- **Email:** arpithajare9@gmail
 
 
 Enjoy using the Kanban board application to manage your tasks efficiently!
