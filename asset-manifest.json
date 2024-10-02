@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kanban-assign/static/css/main.7b3713e8.css",
+    "main.js": "/kanban-assign/static/js/main.5927fea6.js",
+    "static/js/787.0dc1bfd1.chunk.js": "/kanban-assign/static/js/787.0dc1bfd1.chunk.js",
+    "index.html": "/kanban-assign/index.html",
+    "static/media/Tuning.svg": "/kanban-assign/static/media/Tuning.60e58550d592097aa6f7865269c844d4.svg",
+    "static/media/Down.svg": "/kanban-assign/static/media/Down.1d0cf6ea731625d136ef60f7a594b7ce.svg",
+    "main.7b3713e8.css.map": "/kanban-assign/static/css/main.7b3713e8.css.map",
+    "main.5927fea6.js.map": "/kanban-assign/static/js/main.5927fea6.js.map",
+    "787.0dc1bfd1.chunk.js.map": "/kanban-assign/static/js/787.0dc1bfd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b3713e8.css",
+    "static/js/main.5927fea6.js"
+  ]
+}
